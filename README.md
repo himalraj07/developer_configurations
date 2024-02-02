@@ -1,2 +1,4 @@
-# developer_configurations
-Software Developer initial configurations
+
+## developer_configurations
+
+#### Software Developer initial configurations
