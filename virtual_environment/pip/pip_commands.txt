@@ -1,0 +1,14 @@
+pip commands: 
+
+1. pip list   --> to list out all the packages installed
+
+2. pip freeze --> to list out all the packages installed with versions
+
+3. pip install package_name
+
+	or
+
+pip install package_name==version
+
+
+4. pip freeze > requirements.txt  --> to create requirements file
